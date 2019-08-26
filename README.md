@@ -28,9 +28,15 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What does it mean to _think_ in react?
 
+Thinking in React means that you break down your website into components.
+
 - [ ] Describe state.
 
+State is a JS object that is managed within a component.
+
 - [ ] Describe props.
+
+Props is a JS object that is managed within a component.
 
 ## Project Set Up
 
